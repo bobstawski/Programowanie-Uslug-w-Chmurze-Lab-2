@@ -27,3 +27,8 @@ Na potrzeby ćwiczenia zaimplementowano kod 'form.py', który zczytuje zawartoś
 Usprawnieniem do kodu jest zwracanie najważniejszych odczytanych elementów dokumentu do pliku JSON, tak aby można było go użyć w dalszej części procesu.
 ![13](images_form/3.png)
 ## Ćwiczenie: Azure QnA
+Do zrealizowania ćwiczenia wykorzystano dokumentację usługi przygotowaną przez Microsoft. W pliku 'qna_auth.py' znajduje się stworzenie bazy wiedzy, związanej z Isaac'iem Newtonem, która następnie jest zdeployowana za pomocą 'qna_dep.py'.
+![14](images_qna/1.png)
+![15](images_qna/2.png)
+## Wnioski
+Ćwiczenie pokazało mi jak łatwo jest skonfigurować usługi Azure związane na sztucznej inteligencji tak, aby mógłby usprawniać procesy w większych aplikacjach. Dokumentacja Microsoftu okazała się niesamowicie pomocna, przez co łatwo było konfigurować poszczególne serwisy. Niestety mimo starań oraz reinstalacji całego środowiska, nie udało się zrealizować laboratorium w technologi .NET. Uważam jednak, iż język Python sprawnie poradził sobie z łączeniem oraz obsługiwaniem usług chmurowych.
