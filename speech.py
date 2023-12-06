@@ -71,8 +71,7 @@ def text_to_speech(speech_config):
             print(f"ErrorDetails: {cancellation.error_details}")
 
 if __name__ == "__main__":
-    # Replace with your subscription key and region
     subscription_key = "confidential"
-    region = "eastus"  # e.g., "westus"
+    region = "eastus"
 
     recognize_speech(subscription_key, region)
