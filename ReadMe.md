@@ -21,4 +21,9 @@ Finalnie, starano się zaimplementować usługę tłumaczenia tekstu mówionego 
 ![10](images_speech/3.png)
 ## Ćwiczenie: Azure Form Recognizer
 W ćwiczeniu związanym z czytaniem zawartości dokumentu wykorzystano przykładowy dokument, pokazany poniżej.
-## Ćwiczenie: Wprowadzenie do Azure Cosmos DB
+![11](images_form/2.png)
+Na potrzeby ćwiczenia zaimplementowano kod 'form.py', który zczytuje zawartość dokumentu oraz zwraca prawdopodobieństwo rozpoznania słowa, pola lub innego elementu na dokumencie. Kod przetestowano na pliku wyżej.
+![12](images_form/1.png)
+Usprawnieniem do kodu jest zwracanie najważniejszych odczytanych elementów dokumentu do pliku JSON, tak aby można było go użyć w dalszej części procesu.
+![13](images_form/3.png)
+## Ćwiczenie: Azure QnA
