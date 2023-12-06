@@ -15,10 +15,10 @@ Finalnie, stworzono interfejs użytkownika, który pozwalał na wprowadzenie szu
 ## Ćwiczenie: Azure Speech Service
 W następnym ćwiczeniu, wykorzystano usługi do konwersji tekstu mówionego na tekst pisany i odwrotnie. Na początku stworzono kod, który zamienia mowę na tekst pisany w języku angielskim.
 ![8](images_speech/1.png)
-Następnie odwrócono proces i usługa Azura czytała wprowadzony tekst w języku o zadeklarowanej w kodzie płci.
+Następnie odwrócono proces i usługa Azura czytała wprowadzony tekst w języku o zadeklarowanej w kodzie płci. Użyty kod znajduje się w pliku 'speech.py'.
 ![9](images_speech/2.png)
 Finalnie, starano się zaimplementować usługę tłumaczenia tekstu mówionego na żywo, lecz niestety usługa nie zawsze wykrywała dźwięk.
 ![10](images_speech/3.png)
 ## Ćwiczenie: Azure Form Recognizer
-
+W ćwiczeniu związanym z czytaniem zawartości dokumentu wykorzystano przykładowy dokument, pokazany poniżej.
 ## Ćwiczenie: Wprowadzenie do Azure Cosmos DB
