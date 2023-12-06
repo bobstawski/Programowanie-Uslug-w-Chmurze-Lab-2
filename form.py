@@ -2,7 +2,7 @@ from azure.core.credentials import AzureKeyCredential
 from azure.ai.formrecognizer import DocumentAnalysisClient
 
 endpoint = 'https://lab2-puwc-obstawski.cognitiveservices.azure.com/'
-key = '2245007b86a54426af68f800df81c267'
+key = 'confidential'
 
 document_analysis_client = DocumentAnalysisClient(
     endpoint=endpoint, credential=AzureKeyCredential(key)
