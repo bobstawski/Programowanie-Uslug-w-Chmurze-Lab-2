@@ -4,7 +4,7 @@ import requests
 from pprint import pprint
 
 def search_bing(query, response_filter):
-    subscription_key = "confidential"  # Podmień na swój klucz subskrypcji
+    subscription_key = "confidential" 
     endpoint = "https://api.bing.microsoft.com/v7.0/search"
     mkt = 'en-US'
     params = {'q': query, 'mkt': mkt, 'responseFilter': response_filter}
